@@ -2,7 +2,7 @@
 Simple application that plots Csv data 
 
 
-<img src="screen.png" style="float: left; margin-right: 10px;" width=300px/>
+<img src="screen.png" style="float: left; margin-right: 10px;" width=500px/>
 ##Usage
 rename your csv to plot.csv and run the main.exe file in the same folder as plot.csv
 
