@@ -1,9 +1,12 @@
-# OpenGL Boilerplate
-Project containing all basic dependencies for opengl (GLFW,GLEW,GLM,IMGUI)
+# OpenGL CSV Plotter
+Simple application that plots Csv data 
+
+##Usage
+rename your csv to plot.csv and run the main.exe file in the same folder as plot.csv
+
 
 ## Getting Started
 to clone this project it is *NECESSARY* to use the `--recursive` flag
-
 
 ```
 git clone --recursive https://github.com/notshriram/OpenGL_Boilerplate
